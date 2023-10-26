@@ -1,0 +1,3 @@
+/Users/dannisse/CLionProjects/creditCardValidator/cmake-build-debug/CMakeFiles/creditCardValidator.dir
+/Users/dannisse/CLionProjects/creditCardValidator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dannisse/CLionProjects/creditCardValidator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
